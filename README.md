@@ -11,5 +11,5 @@ Auto git pulls all the remote work to your local repository on all of your repos
 ### Todo
     1. Automate the way the scripts enters all the folders.
 
-I need to learn how the scripts can be runned automatically when the pc turn on
+I need to learn how the scripts can be runned automatically when the pc turns on
 
