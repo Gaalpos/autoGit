@@ -14,4 +14,4 @@
 Set-Location D:\DAM\autoPull
 git add .
 git commit -m "test autoPull script"
-git push origin master
+git push origin main
