@@ -13,9 +13,9 @@ function Fpush($route) {
 }
 
 
-Fpush("D:\DAM\autoPull")
-Fpush("D:\DAM\bbdd")
-Fpush("D:\DAM\entornos")
-Fpush("D:\DAM\marcas")
-Fpush("D:\DAM\programacion")
+Fpush("C:\Users\Primero DAM\DAM\autoGit")
+Fpush("C:\Users\Primero DAM\DAM\bbdd")
+Fpush("C:\Users\Primero DAM\DAM\entornos")
+Fpush("C:\Users\Primero DAM\DAM\marcas")
+Fpush("C:\Users\Primero DAM\DAM\programacion")
 Set-Location ..
