@@ -2,7 +2,7 @@
 
 You need to have enabled the execution of powershell scripts. [Hot to enable PowerShell scripts](https://windowsloop.com/enable-powershell-scripts-execution-windows-10/)
 
-My first automation scrip. Let me know if something can be improved :)
+My first automation script. Let me know if something can be improved :)
 
 ## AutoPush
 Auto commit and pushes all the new work to the master branch and all of your repositories. The commit comment is the current date & time.
