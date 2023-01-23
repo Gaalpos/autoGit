@@ -1,6 +1,6 @@
 # Power Shell scripts to automate git pull and git push
 
-You need to have enabled the execution of powershell scripts.[Enable PowerShell scripts](https://windowsloop.com/enable-powershell-scripts-execution-windows-10/)
+You need to have enabled the execution of powershell scripts. [Hot to enable PowerShell scripts](https://windowsloop.com/enable-powershell-scripts-execution-windows-10/)
 
 My first automation scrip. Let me know if something can be improved :)
 
