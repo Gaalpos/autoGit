@@ -8,7 +8,7 @@ My first automation script. Let me know if something can be improved :)
 Auto commit and pushes all the new work to the master branch and all of your repositories. The commit comment is the current date & time.
 
 ## AutoPull
-Auto git pulls all the remote work to your local repository on all of your repositories.\
+Auto git pulls all the remote work to your local repository on all of your repositories.
 
 ### Todo
     1. Automate the way the scripts enters all the folders.
