@@ -6,7 +6,7 @@ function Fpull($route) {
 }
 
 
-Fpull("D:\DAM\autoPull")
+Fpull("D:\DAM\autoGit")
 Fpull("D:\DAM\bbdd")
 Fpull("D:\DAM\entornos")
 Fpull("D:\DAM\marcas")
