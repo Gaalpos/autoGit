@@ -13,7 +13,7 @@ function Fpush($route) {
 }
 
 
-Fpush("D:\DAM\autoPull")
+Fpush("D:\DAM\autoGit")
 Fpush("D:\DAM\bbdd")
 Fpush("D:\DAM\entornos")
 Fpush("D:\DAM\marcas")
