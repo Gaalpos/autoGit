@@ -18,4 +18,5 @@ Fpush("C:\Users\Primero DAM\DAM\bbdd")
 Fpush("C:\Users\Primero DAM\DAM\entornos")
 Fpush("C:\Users\Primero DAM\DAM\marcas")
 Fpush("C:\Users\Primero DAM\DAM\programacion")
+Fpush("C:\Users\Primero DAM\DAM\backendPrueba")
 Set-Location ..
