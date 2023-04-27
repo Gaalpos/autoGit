@@ -18,5 +18,7 @@ Fpush("D:\DAM\bbdd")
 Fpush("D:\DAM\entornos")
 Fpush("D:\DAM\marcas")
 Fpush("D:\DAM\programacion")
+Fpush("D:\DAM\rickandmorty")
+Fpush("D:\DAM\SpringBoot\content-calendar")
 Set-Location ..
  
