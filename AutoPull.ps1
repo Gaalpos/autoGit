@@ -12,7 +12,6 @@ Fpull("D:\DAM\entornos")
 Fpull("D:\DAM\marcas")
 Fpull("D:\DAM\programacion")
 Fpull("D:\DAM\rickandmorty")
-Fpull("D:\DAM\SpringBoot\content-calendar")
 Fpull("D:\DAM\sistemas")
 Fpull("D:\DAM\cuaderno1")
 Set-Location D:\DAM
