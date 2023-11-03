@@ -1,7 +1,7 @@
 function Fpush($route) {
     $date = Get-Date
     $coma = '"'
-    $branch="master" # change this if needed
+    $branch="main" # change this if needed
     $fullDate = $coma + $date + $coma
     Write-Output $fullDate
     Set-Location $route
@@ -13,11 +13,10 @@ function Fpush($route) {
 }
 
 
-Fpush("C:\Users\Primero DAM\DAM\autoGit")
-Fpush("C:\Users\Primero DAM\DAM\bbdd")
-Fpush("C:\Users\Primero DAM\DAM\entornos")
-Fpush("C:\Users\Primero DAM\DAM\marcas")
-Fpush("C:\Users\Primero DAM\DAM\programacion")
-Fpush("C:\Users\Primero DAM\DAM\backendPrueba")
-Fpush("C:\Users\Primero DAM\DAM\rickandmorty")
+Fpush("C:\DAM\accesodatos")
+Fpush("C:\DAM\android")
+Fpush("C:\DAM\interfaces")
+Fpush("C:\DAM\servicios")
+Fpush("C:\DAM\snake.py")
+
 Set-Location ..
