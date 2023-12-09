@@ -10,7 +10,7 @@ Auto commit and pushes all the new work to the master branch and all of your rep
 ## AutoPull
 Auto git pulls all the remote work to your local repository on all of your repositories.
 
-### Todo
+## Todo
     1. Automate the way the scripts enters all the folders.
 
 I need to learn how the scripts can be runned automatically when the pc turns on
